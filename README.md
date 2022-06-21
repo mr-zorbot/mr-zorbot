@@ -1,5 +1,5 @@
 ## [iann@matrix ~]$ whoami
-- 🛡️ Cybersecurity Intern at [PROOF](https://proof.com.br) 
+- 🛡️ Cyber Security Intern at [PROOF](https://proof.com.br) 
 - 🎓 Information Systems student at [UFLA](https://ufla.br)
 - 💻 Member of the UFLA Computer Security and Audit Studies Center ([NESCAU](https://github.com/NESCAU-UFLA))
 - 📪 contato@iannzorkot.eu.org
