@@ -1,10 +1,10 @@
 ## [iann@matrix ~]$ whoami
-- 🛡️ Cyber Security Intern at [PROOF](https://proof.com.br) 
+- 🛡️ Cyber Security Analyst at [PROOF](https://proof.com.br) 
 - 🎓 Information Systems student at [UFLA](https://ufla.br)
 - 💻 Member of the UFLA Computer Security and Audit Studies Center ([NESCAU](https://github.com/NESCAU-UFLA))
 - 📪 contato@iannzorkot.eu.org
 - 📋 [linkedin.com/in/iann-zorkot](https://linkedin.com/in/iann-zorkot)
-- 🐧 I use Arch, btw.
+- 🐧 Arch Linux user, btw.
 
 <div align="left">
   <a href="https://github.com/Iann-Zorkot">
