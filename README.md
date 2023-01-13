@@ -7,5 +7,6 @@
 - 📋 [linkedin.com/in/iann-zorkot](https://linkedin.com/in/iann-zorkot)
 
 <div>
+  <a href="https://tryhackme.com/p/IannZorkot">
   <img src="https://tryhackme-badges.s3.amazonaws.com/IannZorkot.png" alt="TryHackMe">
 </div>
